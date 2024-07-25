@@ -1,0 +1,46 @@
+#  How Does Information Travel? # Como a informação viaja?
+
+
+Wires, Cables, and Wi-Fi (Fios, cabos e Wi-Fi)
+
+
+## Introduction to Information Transmission  (Introdução à transmissão de informações)
+
+Tess Winlock, a software engineer at Google, introduces the concept        
+of how information like pictures and messages is transmitted
+emphasizing that it is not magic but a physical system designed
+for this purpose.
+
+Tess Winlock, engenheiro de software do Google, apresenta o conceito de como informações
+como imagens e mensagens são transmitidas, enfatizando que não se trata de mágica, mas de
+um sistema físico projetado para esse fim.
+
+## The Internet as a Postal Service ## A Internet como um serviço postal
+The Internet functions similarly to the postal service;
+however, instead of physical items like boxes and envelopes,
+it transmits binary information.
+
+A Internet funciona de forma semelhante ao serviço postal;
+entretanto, em vez de itens físicos como caixas e envelopes,
+ele transmite informações binárias.
+
+/////////////////////////////////////////////////////////////////////
+
+## Understanding Bits and Bytes ## Compreendendo bits e bytes
+Information consists of bits, which represent two opposites: "on" or "off",
+typically denoted by 1 (on) and 0 (off). This binary code forms the basis of digital communication.
+
+A informação consiste em bits, que representam dois opostos: “ligado” ou “desligado”,
+normalmente denotados por 1 (ligado) e 0 (desligado). Este código binário
+constitui a base da comunicação digital.
+
+Eight bits combine to form one byte.- 
+Oito bits se combinam para formar um byte.
+
+A kilobyte consists of 1,000 bytes; a megabyte comprises 1,000 kilobytes.
+For context, a song usually requires about three to four megabytes for encoding.
+
+Um kilobyte consiste em 1.000 bytes; um megabyte compreende 1.000 kilobytes. 
+Para fins de contexto, uma música geralmente requer cerca de três a quatro megabytes para codificação.
+
+
